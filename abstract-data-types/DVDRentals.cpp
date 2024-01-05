@@ -19,7 +19,7 @@ Copyright: 2015 Daniel R. Bonham
 using namespace std;
 
 struct DVD {
-	string title; // stores DVD title
+	string title; 
 	string rating; // stores DVD rating
 	float length; // stores DVD length
 	string genre; // stores DVD genre
