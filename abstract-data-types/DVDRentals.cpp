@@ -20,7 +20,7 @@ using namespace std;
 
 struct DVD {
 	string title; 
-	string rating; // stores DVD rating
+	string rating;
 	float length; // stores DVD length
 	string genre; // stores DVD genre
 	string type; // stores DVD type
